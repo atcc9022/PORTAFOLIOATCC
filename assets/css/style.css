@@ -1,0 +1,26 @@
+a {
+    color: white;
+}
+
+a :hover {
+    color: aquamarine;
+}
+
+.down {
+    right: 2%;
+    bottom: 5%;
+}
+
+.bg{
+    background-image: url(../img/business-2717063_1280.jpg);
+
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.bg2{
+    background-image: url(../img/technology-785742_1280.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
